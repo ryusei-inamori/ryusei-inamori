@@ -1,4 +1,13 @@
 # Profile
+<p align="left">
+  <a href="https://github.com/ryusei-inamori">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ryusei-inamori" />
+  </a>
+  <a href="https://github.com/ryusei-inamori">
+    <img height="20" src="https://img.shields.io/github/followers/ryusei-inamori?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 ### I'm a Ph.D student in Japan.
 ### The first year of the Ph.D program. Medical science major.
 ### Feel free to contact me anytime.

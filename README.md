@@ -2,7 +2,6 @@
 ### I'm a Ph.D student in Japan.
 ### The first year of the Ph.D program. Medical science major.
 ### Feel free to contact me anytime.
-#
 
 ## Stats
 <p align="left">

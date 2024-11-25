@@ -1,4 +1,10 @@
-# Profile
+## Profile
+### I'm a Ph.D student in Japan.
+### The first year of the Ph.D program. Medical science major.
+### Feel free to contact me anytime.
+#
+
+## Stats
 <p align="left">
   <a href="https://github.com/ryusei-inamori">
     <img height="20" src="https://komarev.com/ghpvc/?username=ryusei-inamori" />
@@ -7,12 +13,6 @@
     <img height="20" src="https://img.shields.io/github/followers/ryusei-inamori?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-### I'm a Ph.D student in Japan.
-### The first year of the Ph.D program. Medical science major.
-### Feel free to contact me anytime.
-#
-
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei-iinamori&layout=compact&count_private=true&show_icons=true&theme=prussian" />

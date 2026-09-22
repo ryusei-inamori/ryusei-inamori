@@ -5,6 +5,7 @@
 
 
 ## Stats
+
 <p align="left">
   <a href="https://github.com/ryusei-inamori">
     <img height="20" src="https://komarev.com/ghpvc/?username=ryusei-inamori" />
@@ -14,9 +15,15 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei-inamori&layout=compact&count_private=true&show_icons=true&theme=prussian" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryusei-inamori&count_private=true&show_icons=true&show_icons=true&theme=prussian" />
+<p align="left">
+  <img
+    alt="Top Languages"
+    height="150"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryusei-inamori&layout=compact&theme=prussian"
+  />
+  <img
+    alt="GitHub Stats"
+    height="150"
+    src="https://github-stats-extended.vercel.app/api?username=ryusei-inamori&show_icons=true&theme=prussian"
+  />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryusei-inamori&column=7&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
